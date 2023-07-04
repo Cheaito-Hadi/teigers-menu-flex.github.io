@@ -1,5 +1,5 @@
 .background-color {
-    background-color: #242424;
+    /* background-color: #242424; */
     margin: 0;
 }
 
@@ -69,6 +69,34 @@
     margin-bottom: 15px;
     width: 20%;
 
+}
+
+.layout {
+    display: flex;
+    min-height: 100vh;
+    width: 100%;
+}
+
+.side-empty{
+    width: 20%   
+}
+
+.category{
+    width: 60%
+}
+
+.category-img {
+    width: 100%;
+    height: 300px;
+    margin-top: 2px;
+}
+
+.summary-style {
+    color: white;
+    background-color: #323739;
+    padding: 20px;
+    font-family: sans-serif;
+    font-weight: 600;
 }
 
 .footer-title {
