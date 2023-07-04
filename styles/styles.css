@@ -17,3 +17,56 @@
 .coverbox:hover {
     opacity: 1;
 }
+
+.tigers-header {
+    background-color: #e02735;
+    height: 110px;
+    text-align: center;
+    position: fixed;
+    margin-top: 30px;
+    width: 100%;
+    top: 0;
+
+}
+
+.tigers-img {
+    width: 140px;
+    height: 110px;
+    align-content: center;
+}
+
+.menu-container {
+    margin-top: 150px;
+}
+
+.menu-word {
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    margin-bottom: -10px;
+    margin-top: 10px;
+}
+
+.vat {
+    color: #808080;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: small;
+}
+
+.find {
+    text-align: center;
+}
+
+.find-button {
+    background-color: #242424;
+    color: white;
+    padding: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 99px;
+    border-color: white;
+    margin-bottom: 15px;
+    width: 20%;
+
+}
